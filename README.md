@@ -24,3 +24,5 @@ Since the dataset contains financial and email information that is common among 
 
 **[Project Report](https://jkarakas.github.io/Identify-Fraud-from-Enron-Email/report.html)**
 
+Awesome project by JKarakas try out
+
